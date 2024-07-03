@@ -6,6 +6,7 @@ public class TesteGitEclipse {
 		
 		System.out.println("Integração Git Eclipse, primeiro teste");
 		System.out.println("Integração Git Eclipse, primeiro teste 2");
+		System.out.println("Outro commit");
 
 	}
 
